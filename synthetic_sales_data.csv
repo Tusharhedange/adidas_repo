@@ -1,4 +1,4 @@
-Retailer,Retailer_ID,Invoice Date,Region,State,City,Product,Price_per,Quantity,Profit,Sales_Method
+Retailer,Retailer_ID,Invoice_Date,Region,State,City,Product,Price_per,Quantity,Profit,Sales_Method
 Foot Locker,1185732,01/01/2020,Northeast,California,Los Angeles,Women's Apparel,60,1118,70955.76,Online
 Foot Locker,1185732,01/02/2020,Northeast,New York,New York,Men's Apparel,60,1293,70146.05,In-store
 Foot Locker,1185732,01/03/2020,Northeast,California,Los Angeles,Women's Street Footwear,55,1008,52407.12,In-store
